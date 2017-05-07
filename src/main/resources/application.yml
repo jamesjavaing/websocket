@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: websocket
+  thymeleaf:
+      mode: HTML5
+      cache: false
+server:
+  port: 9998
